@@ -1,0 +1,1 @@
+cmd_/home/venkat/training/mem_mngmnt/page_walk/kmod.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/venkat/training/mem_mngmnt/page_walk/kmod.ko /home/venkat/training/mem_mngmnt/page_walk/kmod.o /home/venkat/training/mem_mngmnt/page_walk/kmod.mod.o ;  true

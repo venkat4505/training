@@ -1,0 +1,16 @@
+the fclose(-) function returns zero on success, or eof if there is an error in closing the file. this function actually flushes any data
+still pending in the buffer to the file, closes the file, and releases any memory used 
+for the file. 
+the eof is a constant defined in the header file stdio.h.
+hilllllllhiiiiiiiiiiii
+hellllo ooo oooo
+how             are          you my name is       samant.
+
+
+
+
+
+hi					hellp
+
+
+hi         mmmm

@@ -1,0 +1,1 @@
+cmd_/home/venkat/training/tm/assignments/thread/kernel_space/kmod.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds --build-id  -o /home/venkat/training/tm/assignments/thread/kernel_space/kmod.ko /home/venkat/training/tm/assignments/thread/kernel_space/kmod.o /home/venkat/training/tm/assignments/thread/kernel_space/kmod.mod.o ;  true
